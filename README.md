@@ -131,15 +131,31 @@ Reviews follow a structured format:
 
 ```
 resume-forge/
-├── SKILL.md              # Main skill definition — review framework, criteria, report format
+├── SKILL.md                    # Main skill definition — review framework, criteria, report format
 ├── references/
-│   ├── bullet_points.md  # Deep dive on writing effective bullet points
-│   ├── summary.md        # How to write a strong summary section
-│   ├── skills.md         # Skills section best practices
-│   └── ats.md            # ATS optimization rules and common failures
+│   ├── bullet_points.md        # Deep dive on writing effective bullet points
+│   ├── summary.md              # How to write a strong summary section
+│   ├── skills.md               # Skills section best practices
+│   ├── work_experience.md      # Work experience section deep dive
+│   ├── education.md            # Education section guidelines
+│   ├── personal_information.md # What to include/exclude in personal info
+│   ├── projects.md             # Projects section best practices
+│   ├── ats.md                  # ATS optimization rules and common failures
+│   ├── structure.md            # Resume layout and formatting rules
+│   ├── common_mistakes.md      # The 10 most common resume mistakes
+│   ├── templates.md            # Recommended resume builder tools
+│   ├── shotgun_vs_target.md    # Targeted vs mass application strategy
+│   ├── after_sending_resume.md # Follow-up and thank you letter guidance
+│   ├── awards.md               # Awards section guidelines
+│   ├── certifications.md       # Certifications & trainings best practices
+│   ├── languages.md            # How to list language skills
+│   ├── memberships.md          # Professional memberships guidelines
+│   ├── publications.md         # Publications & conferences section
+│   ├── references.md           # How to handle references
+│   └── volunteer_experience.md # Volunteer experience guidelines
 ├── evals/
-│   └── evals.json        # Test cases for validating skill behavior
-└── CLAUDE.md             # Guidance for Claude Code when editing this repo
+│   └── evals.json              # Test cases for validating skill behavior
+└── CLAUDE.md                   # Guidance for Claude Code when editing this repo
 ```
 
 ## Customization
