@@ -13,44 +13,23 @@ It operates in two modes:
 
 ## Installation
 
-### As a Claude Code Skill
-
-Copy the skill into your Claude Code skills directory:
+1. Clone this repo somewhere on your machine:
 
 ```bash
-# Clone into your project's skills directory
-git clone https://github.com/your-username/resume-forge.git ~/.claude/skills/resume-forge
-
-# Or copy just the files
-mkdir -p ~/.claude/skills/resume-forge
-cp -r SKILL.md references/ evals/ ~/.claude/skills/resume-forge/
+git clone https://github.com/erfanezk/resume-forge.git
 ```
 
-Then add the skill to your Claude Code configuration. In your project's `.claude/settings.json`:
+2. Add the path to your Claude Code settings. In `.claude/settings.json` (project-level or `~/.claude/settings.json` for global):
 
 ```json
 {
   "skills": [
-    "~/.claude/skills/resume-forge"
+    "/path/to/resume-forge"
   ]
 }
 ```
 
-### As a Project-Level Skill
-
-If you want the skill available only within a specific project, place it in the project directory and reference it in `.claude/settings.json`:
-
-```json
-{
-  "skills": [
-    "./skills/resume-forge"
-  ]
-}
-```
-
-## Usage
-
-Once installed, the skill activates automatically when you share a resume or ask resume-related questions.
+That's it. The skill activates automatically when you share a resume or ask resume-related questions.
 
 ### Get a Resume Review
 
