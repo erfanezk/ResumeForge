@@ -278,10 +278,32 @@ When a target job description is available:
 
 ## Reference Files
 
-For detailed section-by-section writing guidelines with examples, read:
-- `references/bullet_points.md` — Deep dive on writing effective bullet points
-- `references/summary.md` — How to write a killer summary
-- `references/skills.md` — Skills section best practices
-- `references/ats.md` — ATS optimization details
+For detailed section-by-section writing guidelines with examples, read the relevant reference file:
 
-These files contain the full guideline documentation with good/bad examples. Consult them when you need more detail on a specific section.
+**Core guidelines:**
+- `references/bullet_points.md` — Deep dive on writing effective bullet points (how-and-why test, action verbs, language rules)
+- `references/summary.md` — How to write a killer summary with good/bad examples
+- `references/skills.md` — Skills section best practices (what to include, what to skip, certification format)
+- `references/ats.md` — ATS optimization details (keyword matching, formatting, testing)
+- `references/common_mistakes.md` — The 10 most common resume mistakes with examples
+
+**Section-specific guidelines:**
+- `references/personal_information.md` — What to include and leave out in contact info
+- `references/work_experience.md` — Chronological order, relevancy, how far back to go
+- `references/education.md` — Degree formatting, GPA, honors, placement
+- `references/projects.md` — How to describe projects, where to place them
+- `references/certifications.md` — Formatting certifications and trainings
+- `references/awards.md` — How and where to list awards
+- `references/languages.md` — Proficiency levels, formatting
+- `references/volunteer_experience.md` — Where to list and how to format
+- `references/publications.md` — Citing publications and conferences
+- `references/references.md` — Whether to include references and how to format them
+- `references/memberships.md` — Professional affiliations
+
+**Strategy:**
+- `references/structure.md` — Overall resume structure, content styles, layout styles
+- `references/shotgun_vs_target.md` — Targeted vs shotgun job application approach
+- `references/after_sending_resume.md` — Follow-up strategy and thank you letters
+- `references/templates.md` — Recommended resume builder platforms
+
+Read the relevant reference file when you need more detail on a specific section. The main SKILL.md has the review checklist; these files have the deeper writing guidance with examples.
