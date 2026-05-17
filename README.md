@@ -13,7 +13,7 @@ Triggers on: review my resume, check my CV, improve my resume, ATS tips, how to 
 ## Installation
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/erfanezk/resume-forge/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/erfanezk/resume-forge/master/install.sh | sh
 ```
 
 ## Usage
