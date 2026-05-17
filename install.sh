@@ -2,7 +2,7 @@
 set -e
 
 REPO="erfanezk/resume-forge"
-BRANCH="main"
+BRANCH="master"
 SKILL_NAME="resume-forge"
 SKILL_PATH="skills/resume-forge"
 CLAUDE_SKILLS_DIR="${CLAUDE_SKILLS_DIR:-$HOME/.claude/skills}"
