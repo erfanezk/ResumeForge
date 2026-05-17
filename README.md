@@ -15,13 +15,13 @@ Triggers on: review my resume, check my CV, improve my resume, ATS tips, how to 
 ### bunx (fastest)
 
 ```bash
-bunx skill add /path/to/resume-forge/skills/resume-forge
+bunx skill add ~/skills/resume-forge
 ```
 
 ### Clone + settings.json
 
 ```bash
-git clone https://github.com/erfanezk/resume-forge.git
+git clone https://github.com/erfanezk/resume-forge.git ~/skills/resume-forge
 ```
 
 Add to `~/.claude/settings.json`:
@@ -29,7 +29,7 @@ Add to `~/.claude/settings.json`:
 ```json
 {
   "skills": [
-    "/path/to/resume-forge/skills/resume-forge"
+    "~/skills/resume-forge"
   ]
 }
 ```
