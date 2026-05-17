@@ -1,0 +1,17 @@
+{
+  "name": "resume-forge",
+  "description": "Expert resume reviewer that analyzes resumes against industry best practices and provides actionable, section-by-section feedback. Triggers on: resume review, CV feedback, improve my resume, check my resume, resume critique, job application help, ATS optimization, resume tips, and any resume-related question.",
+  "version": "1.0.0",
+  "author": {
+    "name": "erfanezk",
+    "url": "https://github.com/erfanezk/resume-forge"
+  },
+  "keywords": [
+    "resume",
+    "cv",
+    "job",
+    "ats",
+    "career",
+    "interview"
+  ]
+}
