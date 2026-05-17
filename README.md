@@ -12,29 +12,9 @@ Triggers on: review my resume, check my CV, improve my resume, ATS tips, how to 
 
 ## Installation
 
-### bunx (fastest)
-
 ```bash
-bunx skill add ~/skills/resume-forge
+curl -fsSL https://raw.githubusercontent.com/erfanezk/resume-forge/main/install.sh | sh
 ```
-
-### Clone + settings.json
-
-```bash
-git clone https://github.com/erfanezk/resume-forge.git ~/skills/resume-forge
-```
-
-Add to `~/.claude/settings.json`:
-
-```json
-{
-  "skills": [
-    "~/skills/resume-forge"
-  ]
-}
-```
-
-Restart Claude Code.
 
 ## Usage
 
